@@ -16,6 +16,7 @@ public class MainUli extends javax.swing.JFrame {
     /**
      * Creates new form MainUli
      */
+    // --------------------- AKOUETE EST PASSER PAR ICI ------------------
     public MainUli() {
         initComponents();
         // --- début à coller juste après initComponents(); ---
